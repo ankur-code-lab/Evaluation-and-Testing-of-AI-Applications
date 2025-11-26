@@ -1,0 +1,15 @@
+deepeval
+ipykernel
+python-dotenv
+langchain-groq
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+sentence-transformers
+langchain-huggingface
+beautifulsoup4
+duckduckgo-search
+langgraph
+ddgs
+ragas
